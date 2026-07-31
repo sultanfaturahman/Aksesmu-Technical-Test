@@ -130,4 +130,4 @@ tests/Feature/ProductCrudTest.php
 
 ## Data contoh
 
-Seeder menyediakan Beras Premium, Minyak Goreng, Gula Pasir, Mi Instan, dan Teh Celup.
+Seeder menyediakan Beras, Minyak Goreng, Gula Pasir, Mi Instan, dan Teh Celup.
