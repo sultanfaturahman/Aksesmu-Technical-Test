@@ -11,32 +11,32 @@ class ProductSeeder extends Seeder
     {
         $products = [
             [
-                'name' => 'Beras Premium 5 Kg',
-                'description' => 'Beras premium untuk kebutuhan harian warung dan rumah tangga.',
+                'name' => 'Beras 5 Kg',
+                'description' => 'Beras.',
                 'price' => 74500,
                 'stock' => 35,
             ],
             [
                 'name' => 'Minyak Goreng 1 Liter',
-                'description' => 'Minyak goreng kemasan satu liter.',
+                'description' => 'Minyak goreng.',
                 'price' => 18500,
                 'stock' => 80,
             ],
             [
                 'name' => 'Gula Pasir 1 Kg',
-                'description' => 'Gula pasir putih kemasan satu kilogram.',
+                'description' => 'Gula pasir.',
                 'price' => 17500,
                 'stock' => 50,
             ],
             [
-                'name' => 'Mi Instan Goreng',
-                'description' => 'Mi instan rasa goreng untuk stok warung.',
+                'name' => 'Mi Instan.',
+                'description' => 'Mi instan.',
                 'price' => 3500,
                 'stock' => 120,
             ],
             [
                 'name' => 'Teh Celup 25 Kantong',
-                'description' => null,
+                'description' => 'Teh celup.',
                 'price' => 9200,
                 'stock' => 45,
             ],
